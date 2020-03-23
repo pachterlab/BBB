@@ -1,3 +1,2 @@
-# BBB
-Bioinformatics for Benched Biologists
+# Bioinformatics for Benched Biologists
 
